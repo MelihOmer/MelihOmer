@@ -1,11 +1,9 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # Merhaba Ben Melih Ömer ✍️
 
-## Jr. Software Developer 💻⌨️🖱️
+## Software Developer 💻⌨️🖱️
 
-Bilgisayar Programcılığı bölümünden mezunum. 4+ Yıl Kardelen Yazılım firmasında yazılım destek uzmanı pozisyonunda çalışıyorum.
-Kendimi C# .Net Core ile Backend alanında geliştiriyorum. Öğrenmem gereken teknolojileri takip ediyorum ve her geçen gün yeni şeyler yazıyorum. Bulabildiğim tüm kaynaklardan kendime birşeyler katmaya çalışıyorum.
-Repositori'lerim profesyonel olmayabilir kendi gelişimimi takip etmek, yazdıklarıma daha sonra tekrar dönüp bakabilmek için kullanıyorum. Aynı zamanda elimden geldiğince öğrendiklerimi, bildiklerimi mediumda blog yazarak anlatmaya çalışıyorum. Önerileriniz, tavsiyeleriniz, eleştirileriniz olursa dinlemek isterim🚩
+
 
 
 ### 📝 Blog
